@@ -1,7 +1,7 @@
 @ECHO OFF 
 :: This batch file reveals OS, hardware, and networking configuration.
 TITLE System Info
-ECHO Please wait... Checking system information.
+ECHO Please wait...
 :: Section 1: OS information.
 ECHO ============================
 ECHO OS INFO
